@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
-> Standard library basic mathematical utilities.
+> Base math utilities.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var utils = require( '@stdlib/math-base-utils' );
 
 #### utils
 
-Standard library basic mathematical utilities.
+Namespace for "base" (i.e., lower-level) math utilities.
 
 ```javascript
 var o = utils;
@@ -85,6 +85,16 @@ console.log( objectKeys( utils ) );
 </section>
 
 <!-- /.examples -->
+
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
 <section class="main-repo" >
