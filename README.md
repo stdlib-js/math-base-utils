@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@deno/mod.js';
+import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { absdiff, epsdiff, reldiff } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@deno/mod.js';
+import { absdiff, epsdiff, reldiff } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@v0.2.0-deno/mod.js';
 ```
 
 #### utils
@@ -86,7 +86,7 @@ var o = utils;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@deno/mod.js';
+import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@v0.2.0-deno/mod.js';
 
 console.log( objectKeys( utils ) );
 ```
