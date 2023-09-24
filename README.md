@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@esm/index.mjs';
+import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { absdiff, epsdiff, reldiff } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@esm/index.mjs';
+import { absdiff, epsdiff, reldiff } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@v0.2.0-esm/index.mjs';
 ```
 
 #### utils
@@ -91,7 +91,7 @@ var o = utils;
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@esm/index.mjs';
+import utils from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-utils@v0.2.0-esm/index.mjs';
 
 console.log( objectKeys( utils ) );
 
