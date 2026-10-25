@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-08)
+## Unreleased (2026-10-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`258cdbd`](https://github.com/stdlib-js/stdlib/commit/258cdbdbad15ae4bec38d11ae0318f069fcce3c9) - **test:** migrate `math/base/utils/absolute-difference` to ULP-based assertions [(#16019)](https://github.com/stdlib-js/stdlib/pull/16019) _(by Philipp Burckhardt, Athan Reines)_
 -   [`5c51a78`](https://github.com/stdlib-js/stdlib/commit/5c51a78eb8365dff5f0655296891102995dd253e) - **docs:** update `math/base/utils` TypeScript declarations [(#12588)](https://github.com/stdlib-js/stdlib/pull/12588) _(by stdlib-bot)_
 -   [`fe585fe`](https://github.com/stdlib-js/stdlib/commit/fe585fe0bf3ddee24914752863757600da049f6a) - **docs:** document `@throws` for `math/base/utils/float64-epsilon-difference` [(#12465)](https://github.com/stdlib-js/stdlib/pull/12465) _(by Philipp Burckhardt)_
 -   [`8156d8e`](https://github.com/stdlib-js/stdlib/commit/8156d8e838de021a64886a2d4879ac898695389d) - **bench:** refactor to use string interpolation in `math/base/utils` [(#10473)](https://github.com/stdlib-js/stdlib/pull/10473) _(by Vishal Gaikwad)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
